@@ -366,6 +366,7 @@ GUI Agents represent a rapidly evolving frontier where foundation models (LLMs/V
 
 | Benchmark | Platform | Paper | Code |
 |-----------|----------|-------|------|
+| **ClawBench** | Web (Live Sites) | [2604.08523](https://arxiv.org/abs/2604.08523) | [Code](https://github.com/reacher-z/ClawBench) · [Project](https://claw-bench.com/) |
 | **WebArena** | Web | [2307.13854](https://arxiv.org/abs/2307.13854) | [Code](https://github.com/web-arena-x/webarena) |
 | **VisualWebArena** | Web | [2401.13649](https://arxiv.org/abs/2401.13649) | [Code](https://github.com/web-arena-x/visualwebarena) |
 | **Mind2Web** | Web | [2306.06070](https://arxiv.org/abs/2306.06070) | [Code](https://github.com/OSU-NLP-Group/Mind2Web) |
