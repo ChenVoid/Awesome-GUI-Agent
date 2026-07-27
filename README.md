@@ -379,6 +379,7 @@ GUI Agents represent a rapidly evolving frontier where foundation models (LLMs/V
 | **MiniWoB++** | Web (Simplified) | [Liu et al., 2018](http://proceedings.mlr.press/v80/liu18b.html) | — |
 | **TurkingBench** | Web | [2403.11905](https://arxiv.org/abs/2403.11905) | — |
 | **WebWalkerQA** | Web | [2501.07572](https://arxiv.org/abs/2501.07572) | [Code](https://github.com/WebWalkerQA/WebWalker) |
+| **ClawBench** | Web | [2604.08523](https://arxiv.org/abs/2604.08523) | [Code](https://github.com/reacher-z/ClawBench) · [Project](https://claw-bench.com/) |
 
 ### Game Benchmarks
 
