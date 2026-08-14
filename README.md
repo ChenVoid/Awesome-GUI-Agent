@@ -52,7 +52,9 @@ GUI Agents represent a rapidly evolving frontier where foundation models (LLMs/V
 
 ---
 
-## Computer Use Agent 🖥️
+## Computer Use Agent
+
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT. 🖥️
 
 * [2504] [Agent-S2] [Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents](https://arxiv.org/abs/2504.00906) [[Code 💻](https://github.com/simular-ai/Agent-S)] [[Project 🌐](https://www.simular.ai/agent-s2)]
 
