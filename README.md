@@ -412,6 +412,7 @@ GUI Agents represent a rapidly evolving frontier where foundation models (LLMs/V
 | **UI-TARS** | Automated GUI interaction native agent | [GitHub](https://github.com/bytedance/UI-TARS) |
 | **WebRL** | Self-evolving curriculum RL for web agents | [GitHub](https://github.com/THUDM/WebRL) |
 | **DigiRL** | Autonomous RL for device control | [GitHub](https://github.com/DigiRL-agent/digirl) |
+| **agent-qa** | Natural-language web and mobile QA with memidex memory and evidence-gated self-improvement | [Website](https://vostride.com) · [GitHub](https://github.com/vostride/agent-qa) |
 
 ---
 
